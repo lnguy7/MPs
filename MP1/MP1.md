@@ -30,7 +30,7 @@ If you investigate this more clsely you can see this is the quadratic equation a
 ![title](images/time.png)
 
 ### To run the code you can use the run button, but because we want to learn to use the terminal use can use the following commands. (Make sure you are in the directory `~/{location of repo}/MPs/MP1` like before)
-`gcc main.c -o main` (This will compile your file called `main.c` into a file called `main` [Compiling means you convert your C code into machine code!])
+`gcc main.c -o main -lm` (This will compile your file called `main.c` into a file called `main` [Compiling means you convert your C code into machine code!])
 
 `./main` (This will run your file called main)
 

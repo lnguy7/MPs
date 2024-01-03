@@ -1,4 +1,4 @@
-# MP #01 (Basic C)
+# MP1 (Basic C with Physics Applications)
 In this MP (Machine Program) we will be going over a very basic structure of C and how to use it.
 
 ## (Part 1) The Problem:
@@ -16,7 +16,7 @@ And now to take the test using `./tests/test`
 
 ![title](images/code_test.png) (like so)
 
-Please score an 100% before moving on
+### Please score an 100% before moving on !!
 
 ## (Part 3) Write the code:
 Let's suppose Bobby Cowhey asks us to compute a LOT of these basketball problems with a lot of different velocities. Instead of actually doing this by hand because it's annoying, let's write a program to do this.
@@ -34,7 +34,18 @@ If you investigate this more clsely you can see this is the quadratic equation a
 
 `./main` (This will run your file called main)
 
-## Learn more: 
+## Velocities with answers
+V = 12m/s, L = 9m
+
+V = 15m/s, L = 14.3m
+
+V = 20m/s, L = 25.8m
+
+V = 6m/s, L = 1.8m
+
+V = 100m/s, L = 655m
+
+## (Part 4) Resources: 
 [Practice C Coding](https://www.w3schools.com/c/c_exercises.php)
 
 [Compiling](https://medium.com/@laura.derohan/compiling-c-files-with-gcc-step-by-step-8e78318052)
